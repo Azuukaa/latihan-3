@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    font-family: Arial;
+    font-size: 50px;
+    text-align: center;
+  }
+
+  p {
+    text-indent: 30px;
+    line-height: 1.5;
+    font-size: 16px;
+    color: blueviolet;
+    font-family: Verdana;
+  }
+
+  li {
+    color: blueviolet;
+    font-size: 12px;
+    font-family: cursive;
+  }
